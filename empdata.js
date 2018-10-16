@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "DJ Keli",
-      "role": "Singer",
+      "designation": "Singer",
       "pay": "$170",
       "performance_date": "2001/07/05",
       "location": "Tokyo",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Bella Willison",
-      "role": "Dancer",
+      "designation": "Dancer",
       "pay": "$370",
       "performance_date": "2012/11/02",
       "location": "New York",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Ash Cotton",
-      "role": "Artist",
+      "designation": "Artist",
       "pay": "$180",
       "performance_date": "2019/01/12",
       "location": "San Francisco",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Airy Gollin",
-      "role": "Singer",
+      "designation": "Singer",
       "pay": "$160",
       "performance_date": "2008/01/08",
       "location": "Tokyo",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Caesar Thomson",
-      "role": "Performer",
+      "designation": "Performer",
       "pay": "$100",
       "performance_date": "2010/12/09",
       "location": "Beijing",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Shadin Duke",
-      "role": "Dancer",
+      "designation": "Dancer",
       "pay": "$180",
       "performance_date": "2018/01/23",
       "location": "Seattle",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Cendy Kellarn",
-      "role": "Performer",
+      "designation": "Performer",
       "pay": "$400",
       "performance_date": "2012/01/19",
       "location": "Tokyo",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Haley Mill",
-      "role": "Singer",
+      "designation": "Singer",
       "pay": "$500",
       "performance_date": "2012/01/08",
       "location": "London",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Hursh Murten",
-      "role": "Artist",
+      "designation": "Artist",
       "pay": "$200",
       "performance_date": "2009/02/05",
       "location": "San Francisco",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Rio Sillion",
-      "role": "Dancer",
+      "designation": "Dancer",
       "pay": "$280",
       "performance_date": "2012/09/26",
       "location": "Minneapolis",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Herren Chandler",
-      "role": "Performance Director",
+      "designation": "Performance Director",
       "pay": "$1,500",
       "performance_date": "2012/08/06",
       "location": "London",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Rhona Yalle",
-      "role": "Dancer",
+      "designation": "Dancer",
       "pay": "$320",
       "performance_date": "2010/10/04",
       "location": "Tokyo",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Sonny Taylor",
-      "role": "Singer",
+      "designation": "Singer",
       "pay": "$230",
       "performance_date": "2008/02/13",
       "location": "Seattle",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Jeff Burner",
-      "role": "Singer",
+      "designation": "Singer",
       "pay": "$290",
       "performance_date": "2001/02/19",
       "location": "Portland",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Quinne Nelson",
-      "role": "Dancer",
+      "designation": "Dancer",
       "pay": "$340",
       "performance_date": "2010/03/21",
       "location": "Duluth",
