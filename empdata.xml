@@ -1,162 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
-    <data> 
-      <food>Pecans</food>
-      <calories>691</calories>
-      <fat>72</fat>
-      <protein>9</protein>
-      <carbs>14</carbs>
-      <fiber>10</fiber>
+    <data>
+      <name>James Bond</name>
+      <designation>Accountant</designation>
+      <salary>$170,750</salary>
+      <joining_date>2011/07/25</joining_date>
+      <office>Tokyo</office>
+      <extension>8422</extension>
     </data>
     <data>
-      <food>Walnuts</food>
-      <calories>654</calories>
-      <fat>65</fat>
-      <protein>15</protein>
-      <carbs>14</carbs>
-      <fiber>7</fiber>
+      <name>Brielle Williamson</name>
+      <designation>Integration Specialist</designation>
+      <salary>$372,000</salary>
+      <joining_date>2012/12/02</joining_date>
+      <office>New York</office>
+      <extension>4804</extension>
     </data>
     <data>
-      <food>Hazelnuts</food>
-      <calories>628</calories>
-      <fat>61</fat>
-      <protein>15</protein>
-      <carbs>17</carbs>
-      <fiber>10</fiber>
+      <name>Ashton Cox</name>
+      <designation>Junior Technical Author</designation>
+      <salary>$86,000</salary>
+      <joining_date>2009/01/12</joining_date>
+      <office>San Francisco</office>
+      <extension>1562</extension>
     </data>
     <data>
-      <food>Almonds</food>
-      <calories>575</calories>
-      <fat>49</fat>
-      <protein>21</protein>
-      <carbs> 22</carbs>
-      <fiber>12</fiber>
-    </data>
-      <food>Soybeans</food>
-      <calories>446</calories>
-      <fat>20</fat>
-      <protein>36</protein>
-      <carbs>30</carbs>
-      <fiber>9</fiber>
+      <name>Airi Satou</name>
+      <designation>Accountant</designation>
+      <salary>$162,700</salary>
+      <joining_date>2008/11/28</joining_date>
+      <office>Tokyo</office>
+      <extension>5407</extension>
     </data>
     <data>
-      <food>Quinoa</food>
-      <calories>368</calories>
-      <fat>6</fat>
-      <protein>14</protein>
-      <carbs>64</carbs>
-      <fiber>7</fiber>
-    </data>
-      <food>Corn</food>
-      <calories>86</calories>
-      <fat>1</fat>
-      <protein>3</protein>
-      <carbs>19</carbs>
-      <fiber>3</fiber>
+      <name>Caesar Vance</name>
+      <designation>Pre-Sales Support</designation>
+      <salary>$106,450</salary>
+      <joining_date>2011/12/12</joining_date>
+      <office>New York</office>
+      <extension>8330</extension>
     </data>
     <data>
-      <food>Yams</food>
-      <calories>118</calories>
-      <fat>0</fat>
-      <protein>8</protein>
-      <carbs>28</carbs>
-      <fiber>4</fiber>
-    </data>
-      <food>Bananas</food>
-      <calories>89</calories>
-      <fat>0</fat>
-      <protein>1</protein>
-      <carbs>23</carbs>
-      <fiber>3</fiber>
+      <name>Shad Decker</name>
+      <designation>Regional Director</designation>
+      <salary>$183,000</salary>
+      <joining_date>2008/11/13</joining_date>
+      <office>Edinburgh</office>
+      <extension>6373</extension>
     </data>
     <data>
-      <food>Peas</food>
-      <calories>81</calories>
-      <fat>0</fat>
-      <protein>5</protein>
-      <carbs>14</carbs>
-      <fiber>5</fiber>
-    </data>
-      <food>Avocado</food>
-      <calories>160</calories>
-      <fat>15</fat>
-      <protein>2</protein>
-      <carbs>9</carbs>
-      <fiber>7</fiber>
+      <name>Cedric Kelly</name>
+      <designation>Senior Javascript Developer</designation>
+      <salary>$433,060</salary>
+      <joining_date>2012/03/29</joining_date>
+      <office>Edinburgh</office>
+      <extension>6224</extension>
     </data>
     <data>
-      <food>Grapes</food>
-      <calories>67</calories>
-      <fat>0</fat>
-      <protein>1</protein>
-      <carbs>17</carbs>
-      <fiber>1</fiber>
-    </data>
-      <food>Kale</food>
-      <calories>50</calories>
-      <fat>1</fat>
-      <protein>3</protein>
-      <carbs>10</carbs>
-      <fiber>2</fiber>
+      <name>Haley Kennedy</name>
+      <designation>Senior Marketing Designer</designation>
+      <salary>$313,500</salary>
+      <joining_date>2012/12/18</joining_date>
+      <office>London</office>
+      <extension>3597</extension>
     </data>
     <data>
-      <food>Apples</food>
-      <calories>52</calories>
-      <fat>0</fat>
-      <protein>0</protein>
-      <carbs>14</carbs>
-      <fiber>2</fiber>
-    </data>
-      <food>Pears</food>
-      <calories>58</calories>
-      <fat>0</fat>
-      <protein>0</protein>
-      <carbs>15</carbs>
-      <fiber>3</fiber>
+      <name>Colleen Hurst</name>
+      <designation>Javascript Developer</designation>
+      <salary>$205,500</salary>
+      <joining_date>2009/09/15</joining_date>
+      <office>San Francisco</office>
+      <extension>2360</extension>
     </data>
     <data>
-      <food>Celery</food>
-      <calories>16</calories>
-      <fat>0</fat>
-      <protein>1</protein>
-      <carbs>3</carbs>
-      <fiber>2</fiber>
-    </data>
-      <food>Cauliflower</food>
-      <calories>25</calories>
-      <fat>0</fat>
-      <protein>2</protein>
-      <carbs>5</carbs>
-      <fiber>3</fiber>
+      <name>Dai Rios</name>
+      <designation>Personnel Lead</designation>
+      <salary>$217,500</salary>
+      <joining_date>2012/09/26</joining_date>
+      <office>Edinburgh</office>
+      <extension>2290</extension>
     </data>
     <data>
-      <food>Spinach</food>
-      <calories>23</calories>
-      <fat>0</fat>
-      <protein>3</protein>
-      <carbs>4</carbs>
-      <fiber>2</fiber>
-    </data>
-      <food>Watermelon</food>
-      <calories>30</calories>
-      <fat>0</fat>
-      <protein>1</protein>
-      <carbs>8</carbs>
-      <fiber>0</fiber>
+      <name>Herrod Chandler</name>
+      <designation>Sales Assistant</designation>
+      <salary>$137,500</salary>
+      <joining_date>2012/08/06</joining_date>
+      <office>San Francisco</office>
+      <extension>9608</extension>
     </data>
     <data>
-      <food>Broccoli</food>
-      <calories>34</calories>
-      <fat>0</fat>
-      <protein>3</protein>
-      <carbs>7</carbs>
-      <fiber>3</fiber>
+      <name>Rhona Davidson</name>
+      <designation>Integration Specialist</designation>
+      <salary>$327,900</salary>
+      <joining_date>2010/10/14</joining_date>
+      <office>Tokyo</office>
+      <extension>6200</extension>
     </data>
-      <food>Beets</food>
-      <calories>43</calories>
-      <fat>0</fat>
-      <protein>2</protein>
-      <carbs>10</carbs>
-      <fiber>3</fiber>
+    <data>
+      <name>Sonya Frost</name>
+      <designation>Software Engineer</designation>
+      <salary>$103,600</salary>
+      <joining_date>2008/12/13</joining_date>
+      <office>Edinburgh</office>
+      <extension>1667</extension>
+    </data>
+    <data>
+      <name>Jena Gaines</name>
+      <designation>Office Manager</designation>
+      <salary>$90,560</salary>
+      <joining_date>2008/12/19</joining_date>
+      <office>London</office>
+      <extension>3814</extension>
+    </data>
+    <data>
+      <name>Quinn Flynn</name>
+      <designation>Support Lead</designation>
+      <salary>$342,000</salary>
+      <joining_date>2013/03/03</joining_date>
+      <office>Edinburgh</office>
+      <extension>9497</extension>
     </data>
   </employees>
