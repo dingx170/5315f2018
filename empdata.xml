@@ -6,7 +6,7 @@
       <fat>72</fat>
       <protein>9</protein>
       <carbs>14</carbs>
-      <extension>10</extension>
+      <fiber>10</fiber>
     </data>
     <data>
       <food>Walnuts</food>
@@ -14,7 +14,7 @@
       <fat>65</fat>
       <protein>15</protein>
       <carbs>14</carbs>
-      <extension>7</extension>
+      <fiber>7</fiber>
     </data>
     <data>
       <food>Hazelnuts</food>
@@ -22,7 +22,7 @@
       <fat>61</fat>
       <protein>15</protein>
       <carbs>17</carbs>
-      <extension>10</extension>
+      <fiber>10</fiber>
     </data>
     <data>
       <food>Almonds</food>
@@ -30,14 +30,14 @@
       <fat>49</fat>
       <protein>21</protein>
       <carbs> 22</carbs>
-      <extension>12</extension>
+      <fiber>12</fiber>
     </data>
       <food>Soybeans</food>
       <calories>446</calories>
       <fat>20</fat>
       <protein>36</protein>
       <carbs>30</carbs>
-      <extension>9</extension>
+      <fiber>9</fiber>
     </data>
     <data>
       <food>Quinoa</food>
@@ -45,14 +45,14 @@
       <fat>6</fat>
       <protein>14</protein>
       <carbs>64</carbs>
-      <extension>7</extension>
+      <fiber>7</fiber>
     </data>
       <food>Corn</food>
       <calories>86</calories>
       <fat>1</fat>
       <protein>3</protein>
       <carbs>19</carbs>
-      <extension>3</extension>
+      <fiber>3</fiber>
     </data>
     <data>
       <food>Yams</food>
@@ -60,14 +60,14 @@
       <fat>0</fat>
       <protein>8</protein>
       <carbs>28</carbs>
-      <extension>4</extension>
+      <fiber>4</fiber>
     </data>
       <food>Bananas</food>
       <calories>89</calories>
       <fat>0</fat>
       <protein>1</protein>
       <carbs>23</carbs>
-      <extension>3</extension>
+      <fiber>3</fiber>
     </data>
     <data>
       <food>Peas</food>
@@ -75,14 +75,14 @@
       <fat>0</fat>
       <protein>5</protein>
       <carbs>14</carbs>
-      <extension>5</extension>
+      <fiber>5</fiber>
     </data>
       <food>Avocado</food>
       <calories>160</calories>
       <fat>15</fat>
       <protein>2</protein>
       <carbs>9</carbs>
-      <extension>7</extension>
+      <fiber>7</fiber>
     </data>
     <data>
       <food>Grapes</food>
@@ -90,14 +90,14 @@
       <fat>0</fat>
       <protein>1</protein>
       <carbs>17</carbs>
-      <extension>1</extension>
+      <fiber>1</fiber>
     </data>
       <food>Kale</food>
       <calories>50</calories>
       <fat>1</fat>
       <protein>3</protein>
       <carbs>10</carbs>
-      <extension>2</extension>
+      <fiber>2</fiber>
     </data>
     <data>
       <food>Apples</food>
@@ -105,14 +105,14 @@
       <fat>0</fat>
       <protein>0</protein>
       <carbs>14</carbs>
-      <extension>2</extension>
+      <fiber>2</fiber>
     </data>
       <food>Pears</food>
       <calories>58</calories>
       <fat>0</fat>
       <protein>0</protein>
       <carbs>15</carbs>
-      <extension>3</extension>
+      <fiber>3</fiber>
     </data>
     <data>
       <food>Celery</food>
@@ -120,14 +120,14 @@
       <fat>0</fat>
       <protein>1</protein>
       <carbs>3</carbs>
-      <extension>2</extension>
+      <fiber>2</fiber>
     </data>
       <food>Cauliflower</food>
       <calories>25</calories>
       <fat>0</fat>
       <protein>2</protein>
       <carbs>5</carbs>
-      <extension>3</extension>
+      <fiber>3</fiber>
     </data>
     <data>
       <food>Spinach</food>
@@ -135,14 +135,14 @@
       <fat>0</fat>
       <protein>3</protein>
       <carbs>4</carbs>
-      <extension>2</extension>
+      <fiber>2</fiber>
     </data>
       <food>Watermelon</food>
       <calories>30</calories>
       <fat>0</fat>
       <protein>1</protein>
       <carbs>8</carbs>
-      <extension>0</extension>
+      <fiber>0</fiber>
     </data>
     <data>
       <food>Broccoli</food>
@@ -150,13 +150,13 @@
       <fat>0</fat>
       <protein>3</protein>
       <carbs>7</carbs>
-      <extension>3</extension>
+      <fiber>3</fiber>
     </data>
       <food>Beets</food>
       <calories>43</calories>
       <fat>0</fat>
       <protein>2</protein>
       <carbs>10</carbs>
-      <extension>3</extension>
+      <fiber>3</fiber>
     </data>
   </employees>
