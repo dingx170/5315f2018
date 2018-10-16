@@ -10,22 +10,22 @@
     <table id="empTable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
-                <th>100 grams of Food</th>
-                <th>Calories</th>
-                <th>Fat</th>
-                <th>Protein</th>
-                <th>Carbs</th>
-                <th>Fiber</th>
+                <th>Name</th>
+                <th>Designation</th>
+                <th>Office</th>
+                <th>Extension</th>
+                <th>Joining Date</th>
+                <th>Salary</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
-                <th>100 grams of Food</th>
-                <th>Calories</th>
-                <th>Fat</th>
-                <th>Protein</th>
-                <th>Carbs</th>
-                <th>Fiber</th>
+                <th>Name</th>
+                <th>Designation</th>
+                <th>Office</th>
+                <th>Extension</th>
+                <th>Joining Date</th>
+                <th>Salary</th>
             </tr>
         </tfoot>
     </table>
@@ -40,12 +40,12 @@
         $('#empTable').dataTable({
             "ajax": "empdata.js",
             "columns": [
-                {"data": "food"},
-                {"data": "calories"},
-                {"data": "fat"},
-                {"data": "protein"},
-                {"data": "carbs"},
-                {"data": "fiber"}
+                {"data": "name"},
+                {"data": "designation"},
+                {"data": "office"},
+                {"data": "extension"},
+                {"data": "joining_date"},
+                {"data": "salary"}
             ]
         });   
     });
