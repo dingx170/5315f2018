@@ -120,4 +120,12 @@
       <office>Edinburgh</office>
       <extension>9497</extension>
     </data>
+        <data>
+      <name>Tong Ding</name>
+      <designation>support</designation>
+      <salary>$2</salary>
+      <joining_date>2011/01/01</joining_date>
+      <office>San</office>
+      <extension>5324</extension>
+    </data>
   </employees>
